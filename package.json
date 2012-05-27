@@ -1,6 +1,10 @@
 {
   "name": "LebowskiQuiz",
   "version": "0.0.1",
+  "engines": {
+    "node": "0.6.7",
+    "npm":  "1.1.0-beta-10"
+  },
   "private": true,
   "dependencies": {
     "express": "2.5.1",
@@ -9,7 +13,6 @@
     "express-namespace": "0.0.4",
     "connect-assets": "~2.1.8"
   },
-  "engine": "node 0.6.7",
   "devDependencies": {
     "node-dev": "~0.2.2",
     "mocha": "~0.14.1",
