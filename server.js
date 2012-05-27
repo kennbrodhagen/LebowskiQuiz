@@ -8,13 +8,14 @@ var express = require('express');
 require('express-namespace')
 
 var app = module.exports = express.createServer();
+var port = process.env.PORT || 3000;
 
 // Configuration
 app.configure(function () {
 	//app.use(express.logger('default'));
   app.set('views', __dirname + '/views');
   app.set('view engine', 'jade');
-  app.set('port', 3000);
+  app.set('port', port);
   app.use(express.bodyParser());
   app.use(express.methodOverride());
   app.use(express.static(__dirname + '/public'));
@@ -35,7 +36,7 @@ app.configure('development', function () {
 });
 
 app.configure('test', function () {
-  app.set('port', 3001);
+  app.set('port', port + 1);
 });
 
 app.configure('production', function () {
