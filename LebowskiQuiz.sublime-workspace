@@ -1,0 +1,385 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"res",
+				"responseText"
+			],
+			[
+				"flash",
+				"flashTypes"
+			],
+			[
+				"req",
+				"request"
+			],
+			[
+				"stylesh",
+				"stylesheet"
+			],
+			[
+				"re",
+				"requestHandlers"
+			],
+			[
+				"wr",
+				"writeHead"
+			],
+			[
+				"wri",
+				"writeHead"
+			],
+			[
+				"postD",
+				"postDataChunk"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pack",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"Instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Inst",
+				"Package Control: Install Package"
+			],
+			[
+				"lint",
+				"JSLint: Run JSLint"
+			],
+			[
+				"Insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Pack",
+				"Package Control: Install Package"
+			],
+			[
+				"Packa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 209.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kennbrodhagen/code/iPhone/Coinage/.gitignore",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/test/apps/twilio-test.coffee",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/test/assert-extra.coffee",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/apps/twilio/routes.coffee",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/bin/testpost",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/server.js",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/apps/twilio/views/guess.jade",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/package.json",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/node_modules/cookies/lib/cookies.js",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/bin/test",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/.gitignore",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/apps/twilio/views/correct_guess.jade",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/apps/twilio/views/incorrect_guess.jade",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/apps/twilio/views/layout.jade",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/test/apps/sidewalk-test.coffee",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/apps/twilio/views/pies.jade",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/bin/piecurl",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/apps/sidewalk/routes.coffee",
+		"/Users/kennbrodhagen/code/Node/TwilioTest/views/layout.jade",
+		"/Users/kennbrodhagen/code/twilio/tutorial/requirements.txt",
+		"/Users/kennbrodhagen/code/Node/template/server.js",
+		"/Users/kennbrodhagen/code/Node/template/public/stylesheets/_login.css",
+		"/Users/kennbrodhagen/code/Node/template/public/stylesheets/admin.css",
+		"/Users/kennbrodhagen/code/Node/template/public/stylesheets/login.css",
+		"/Users/kennbrodhagen/code/Node/template/public/stylesheets/sidewalk.css",
+		"/Users/kennbrodhagen/code/Node/template/bin/test",
+		"/Users/kennbrodhagen/code/Node/template/apps/admin/routes.coffee",
+		"/Users/kennbrodhagen/code/Node/template/package.json",
+		"/Users/kennbrodhagen/code/Node/template/test/assert-extra.coffee",
+		"/Users/kennbrodhagen/code/Node/template/apps/authentication/routes.coffee",
+		"/Users/kennbrodhagen/code/Node/template/apps/socket-io.coffee",
+		"/Users/kennbrodhagen/code/Node/template/apps/admin/views/index.jade",
+		"/Users/kennbrodhagen/code/Node/template/apps/helpers.coffee",
+		"/Users/kennbrodhagen/code/Node/template/test/models/pie-test.coffee",
+		"/Users/kennbrodhagen/code/Node/template/test/apps/sidewalk-test.coffee",
+		"/Users/kennbrodhagen/code/Node/template/test/apps/authentication-test.coffee",
+		"/Users/kennbrodhagen/code/Node/template/test/apps/root-test.coffee",
+		"/Users/kennbrodhagen/code/Node/template/test/apps/admin-test.coffee",
+		"/Users/kennbrodhagen/code/Node/template/template.sublime-workspace",
+		"/Users/kennbrodhagen/Library/Application Support/Sublime Text 2/Packages/Default/Preferences.sublime-settings",
+		"/Users/kennbrodhagen/code/Node/template/test/pie-factory.coffee",
+		"/Users/kennbrodhagen/code/Node/template/test/helper-test.coffee",
+		"/Users/kennbrodhagen/code/Node/HotPie/apps/authentication/routes.coffee",
+		"/Users/kennbrodhagen/code/Node/HotPie/apps/helpers.coffee",
+		"/Users/kennbrodhagen/code/Node/HotPie/views/layout.jade",
+		"/Users/kennbrodhagen/code/Node/HotPie/bin/redis",
+		"/Users/kennbrodhagen/code/Node/HotPie/notes.txt",
+		"/Users/kennbrodhagen/code/Node/HotPie/server.js",
+		"/Users/kennbrodhagen/code/Node/HotPie/bin/devserver",
+		"/Users/kennbrodhagen/code/Node/HotPie/bin/test",
+		"/Users/kennbrodhagen/code/Node/HotPie/test/_helper.js",
+		"/Users/kennbrodhagen/code/Node/HotPie/test/apps/authentication-test.coffee",
+		"/Users/kennbrodhagen/code/Node/HotPie/package.json",
+		"/Users/kennbrodhagen/code/Node/HotPie/apps/authentication/views/login.jade",
+		"/Users/kennbrodhagen/code/Node/HotPie/HotPie.sublime-project",
+		"/Users/kennbrodhagen/code/Node/devdash/app.js",
+		"/Users/kennbrodhagen/code/Node/devdash/public/style-demo.html",
+		"/Users/kennbrodhagen/code/Node/devdash/public/full-width.html",
+		"/Users/kennbrodhagen/code/Node/devdash/public/index.html",
+		"/Users/kennbrodhagen/code/Node/devdash/views/contact.jade",
+		"/Users/kennbrodhagen/code/Node/devdash/public/stylesheets/style.styl",
+		"/Users/kennbrodhagen/code/Node/devdash/views/layout.jade",
+		"/Users/kennbrodhagen/Library/Application Support/Sublime Text 2/Packages/Nodejs/Nodejs.sublime-settings",
+		"/Users/kennbrodhagen/Library/Application Support/Sublime Text 2/Packages/User/Nodejs.sublime-settings",
+		"/Users/kennbrodhagen/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/kennbrodhagen/Library/Application Support/Sublime Text 2/Packages/User/Stylus.sublime-settings",
+		"/Users/kennbrodhagen/code/Node/thiscall/.gitignore",
+		"/Users/kennbrodhagen/code/Node/thiscall/test/mocha.opts",
+		"/Users/kennbrodhagen/code/Node/thiscall/test/test.js",
+		"/Users/kennbrodhagen/code/Node/thiscall/lib/posts.js",
+		"/Users/kennbrodhagen/code/Node/tcmbr/apache-couchdb-1.1.1/INSTALL.Unix",
+		"/Users/kennbrodhagen/code/Node/tcmbr/apache-couchdb-1.1.1/INSTALL",
+		"/Users/kennbrodhagen/code/Node/tcmbr/apache-couchdb-1.1.1/INSTALL.Windows",
+		"/Users/kennbrodhagen/code/Node/jblotus/lib/controller.js",
+		"/Users/kennbrodhagen/code/Node/jblotus/app/views/actions/home.html",
+		"/Users/kennbrodhagen/code/Node/jblotus/lib/dispatcher.js",
+		"/Users/kennbrodhagen/code/Node/jblotus/webroot/css/style.css",
+		"/Users/kennbrodhagen/code/Node/jblotus/lib/response_handler.js",
+		"/Users/kennbrodhagen/code/Node/jblotus/app/views/layouts/default.html",
+		"/Users/kennbrodhagen/code/Node/jblotus/webroot/js/gridincard.js",
+		"/Users/kennbrodhagen/code/Node/jblotus/app/views/actions/view.html",
+		"/Users/kennbrodhagen/code/Node/jblotus/.gitignore",
+		"/Users/kennbrodhagen/code/Node/jblotus/server.js",
+		"/Users/kennbrodhagen/code/Node/jblotus/node_modules/mustache/mustache.js",
+		"/Users/kennbrodhagen/code/Node/jblotus/lib/view.js",
+		"/Users/kennbrodhagen/Library/Application Support/Sublime Text 2/Packages/User/Base File.sublime-settings",
+		"/Users/kennbrodhagen/code/Node/hello/server.js",
+		"/Users/kennbrodhagen/code/Node/hello/router.js",
+		"/Users/kennbrodhagen/code/Node/hello/index.js",
+		"/Users/kennbrodhagen/code/Node/hello/requestHandlers.js",
+		"/Users/kennbrodhagen/Library/Application Support/Sublime Text 2/Packages/Default/Base File.sublime-settings",
+		"/Users/kennbrodhagen/code/Node/hello/helloworld.js",
+		"/Users/kennbrodhagen/code/iPhone/Play/LocationPlay1/.gitignore"
+	],
+	"find":
+	{
+		"height": 43.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/Users/kennbrodhagen/code/Node/TwilioTest/",
+			"/Users/kennbrodhagen/code/Node/TwilioTest/test",
+			"/Users/kennbrodhagen/code/Node/TwilioTest",
+			"",
+			"/Users/kennbrodhagen/code/Node/jblotus"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log",
+			"_jar",
+			"encrypted",
+			"cookie",
+			"console.log",
+			"POST",
+			"layout.jade",
+			"land ahoy",
+			"cta-button",
+			"Sign Up",
+			"plugin",
+			"spaces",
+			"scripts/",
+			"console.log",
+			"	});",
+			"webroot",
+			"ext3",
+			"actions",
+			"dispatch",
+			"function()",
+			"log.console",
+			"renderHtml",
+			"res",
+			"postData",
+			"console",
+			"font_size",
+			"	\"font_face\": \"Monaco\",\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"javascripts/",
+			"function ()",
+			"console.log",
+			"request"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 43.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 80.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"r",
+				"apps/authentication/routes.coffee"
+			],
+			[
+				"ser",
+				"server.js"
+			],
+			[
+				"help",
+				"apps/helpers.coffee"
+			],
+			[
+				"route",
+				"apps/authentication/routes.coffee"
+			],
+			[
+				"helper",
+				"apps/helpers.coffee"
+			],
+			[
+				"layout",
+				"views/layout.jade"
+			],
+			[
+				"pac",
+				"package.json"
+			],
+			[
+				"redis",
+				"bin/redis"
+			],
+			[
+				"notes",
+				"notes.txt"
+			],
+			[
+				"routes",
+				"apps/authentication/routes.coffee"
+			],
+			[
+				"",
+				"/Users/kennbrodhagen/code/iPhone/Play/LocationPlay1/.gitignore"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 230.0,
+	"status_bar_visible": true
+}

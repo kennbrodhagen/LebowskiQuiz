@@ -1,0 +1,3 @@
+#!/usr/bin/env sh
+
+curl -X POST -d "From=3031111111&Digits=1" http://localhost:3000/twilio/guess
