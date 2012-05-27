@@ -9,6 +9,7 @@
     "express-namespace": "0.0.4",
     "connect-assets": "~2.1.8"
   },
+  "engine": "node 0.6.7",
   "devDependencies": {
     "node-dev": "~0.2.2",
     "mocha": "~0.14.1",
